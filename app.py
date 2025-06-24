@@ -8,7 +8,7 @@ st.set_page_config(page_title="💰 Finance Dashboard", layout="wide")
 # Load and clean data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/transactions.csv")
+    df = pd.read_csv("transactions.csv")
     df["Date"] = pd.to_datetime(df["Date"])
     df["Month"] = df["Date"].dt.strftime("%B")
     return df
