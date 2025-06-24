@@ -39,5 +39,6 @@ Easily track income, expenses, savings, and visualize spending habits with inter
 ---
 
 ## 📂 Folder Structure
-<img src="folder structure.png" width="100%">
+
+<img src="folder-structure.png" width="100%">
 
