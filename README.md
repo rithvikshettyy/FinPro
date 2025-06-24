@@ -11,7 +11,6 @@ Easily track income, expenses, savings, and visualize spending habits with inter
 
 <!-- Add screenshots of your dashboard below -->
 <img src="dashboard.png" width="100%">
-<img src="pie-chart.png" width="100%">
 <img src="trend-graph.png" width="100%">
 
 ---
@@ -40,4 +39,5 @@ Easily track income, expenses, savings, and visualize spending habits with inter
 ---
 
 ## 📂 Folder Structure
+<img src="folder structure.png" width="100%">
 
