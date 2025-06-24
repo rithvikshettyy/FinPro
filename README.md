@@ -1,6 +1,6 @@
 # FinPro
 
-# 💼 Personal Finance Dashboard
+# 🚀 Your Personal Finance Dashboard
 
 A modern, dark-themed personal finance dashboard built with **Python**, **Streamlit**, and **Plotly**.  
 Easily track income, expenses, savings, and visualize spending habits with interactive charts.
