@@ -10,9 +10,9 @@ Easily track income, expenses, savings, and visualize spending habits with inter
 ## 🖼️ Screenshots
 
 <!-- Add screenshots of your dashboard below -->
-<img src="screenshots/dashboard.png" width="100%">
-<img src="screenshots/pie-chart.png" width="100%">
-<img src="screenshots/trend-graph.png" width="100%">
+<img src="dashboard.png" width="100%">
+<img src="pie-chart.png" width="100%">
+<img src="trend-graph.png" width="100%">
 
 ---
 
